@@ -10,7 +10,6 @@ Then, if you want to check a certain card, you just have to search it using 'ctr
 
 Checklists include a check-box, card number, card name, type, and rarity of the card.
 
-All of the cards are linked respectively to their page on scryfall.com and from there, it is possible to find them 
-on various other buying platforms, toolboxes and databases.
-
+All of the cards are linked respectively to their page on scryfall.com and from there, it is possible to find them on various other buying platforms, toolboxes and databases.
+    
 Feel free to use and modify this document!
